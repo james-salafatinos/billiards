@@ -1,0 +1,24 @@
+{
+  "name": "graph-based-physics-model",
+  "version": "1.0.0",
+  "description": "playing around with graph structures and threejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-salafatinos/graph-theory-threejs.git"
+  },
+  "author": "james",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james-salafatinos/graph-theory-threejs/issues"
+  },
+  "homepage": "https://github.com/james-salafatinos/graph-theory-threejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {}
+}
